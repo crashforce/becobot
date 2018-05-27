@@ -1,0 +1,39 @@
+{"level":"info","message":"Starting botpress version 1.1.13","timestamp":"2018-05-26T21:34:23.750Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2018-05-26T21:34:24.112Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2018-05-26T21:34:24.113Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2018-05-26T21:34:24.113Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2018-05-26T21:34:24.157Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2018-05-26T21:34:24.158Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2018-05-26T21:34:24.158Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2018-05-26T21:34:24.158Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2018-05-26T21:34:24.159Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2018-05-26T21:34:24.187Z"}
+{"level":"info","message":"Starting botpress version 1.1.13","timestamp":"2018-05-26T22:45:46.776Z"}
+{"level":"info","message":"Loaded botpress-web, version 2.0.3","timestamp":"2018-05-26T22:45:49.117Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2018-05-26T22:45:49.118Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2018-05-26T22:45:49.201Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2018-05-26T22:45:49.202Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2018-05-26T22:45:49.203Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2018-05-26T22:45:49.203Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2018-05-26T22:45:49.246Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2018-05-26T22:45:49.256Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2018-05-26T22:45:49.256Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2018-05-26T22:45:49.256Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2018-05-26T22:45:49.257Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2018-05-26T22:45:49.257Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2018-05-26T22:45:49.263Z"}
+{"level":"info","message":"[notification::botpress] botpress-web.config.yml has been created, fill it","timestamp":"2018-05-26T22:45:49.278Z"}
+{"level":"info","message":"Starting botpress version 1.1.13","timestamp":"2018-05-26T23:44:33.938Z"}
+{"level":"info","message":"Loaded botpress-web, version 2.0.3","timestamp":"2018-05-26T23:44:36.407Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2018-05-26T23:44:36.407Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2018-05-26T23:44:36.485Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2018-05-26T23:44:36.486Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2018-05-26T23:44:36.486Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2018-05-26T23:44:36.486Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2018-05-26T23:44:36.520Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2018-05-26T23:44:36.537Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2018-05-26T23:44:36.537Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2018-05-26T23:44:36.537Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2018-05-26T23:44:36.538Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2018-05-26T23:44:36.538Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2018-05-26T23:44:36.539Z"}
