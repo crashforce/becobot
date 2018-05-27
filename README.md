@@ -1,3 +1,3 @@
 # becobot
 BecoBot - Inteligência Artificial
-Projeto de IA
+Projeto de IA. 
