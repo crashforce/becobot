@@ -18,4 +18,4 @@ welcome: # this is the #welcome bloc referenced in index.js
 goodbye:
   - text: You are leaving because of reason {{reason}}
     typing: true
-  - Hope to see you back again soon! # if no other properties, you can just send a strings
+  - Se precisar de mais alguma coisa, estou aqui para você! # if no other properties, you can just send a strings
