@@ -6,7 +6,7 @@ welcome: # this is the #welcome bloc referenced in index.js
       - Bom dia :)
   - text: Mestre, ainda estou aprendendo, Ainda não sei de nada ;)
     typing: 2s
-  - text: É apenas para mostrar que eu estou vivo, mmeu cérebro está localizado no 'index.js' como você codificou.
+  - text: É apenas para mostrar que eu estou vivo, meu cérebro está localizado no 'index.js' como você codificou.
     typing: true
   - wait: 5s
   - text: Você pode escrever tchau agora..
@@ -16,6 +16,6 @@ welcome: # this is the #welcome bloc referenced in index.js
   
 
 goodbye:
-  - text: You are leaving because of reason {{reason}}
+  - text: Você está saindo por por causa de {{reason}}
     typing: true
   - Se precisar de mais alguma coisa, estou aqui para você! # if no other properties, you can just send a strings
