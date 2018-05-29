@@ -4,7 +4,7 @@ welcome: # this is the #welcome bloc referenced in index.js
       - Olá! Como Vai ?
       - Olá {{user.first_name}}
       - Bom dia :)
-  - text: This is just a regular Hello World, I don't do anything ;)
+  - text: Mestre, ainda estou aprendendo, Ainda não seu de nada ;)
     typing: 2s
   - text: Make sure to check out the 'index.js' file to see how I work
     typing: true
