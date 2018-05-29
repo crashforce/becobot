@@ -1,6 +1,6 @@
 welcome: # this is the #welcome bloc referenced in index.js
   - typing: true
-    text: # Picks one randomly
+    text: # Escolhe uma resposta randomicamente.
       - Hey there!
       - Hello {{user.first_name}}
       - Good day :)
@@ -11,6 +11,11 @@ welcome: # this is the #welcome bloc referenced in index.js
   - wait: 5s
   - text: You can say goodbye now
     typing: 1s
+  
+  # Finalizacao de Batepapo  
+    typing: true
+  - wait: 4s
+  - text: Precisando é só chamar.
 
 goodbye:
   - text: You are leaving because of reason {{reason}}

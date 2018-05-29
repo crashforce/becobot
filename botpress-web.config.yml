@@ -3,7 +3,7 @@ botName: 'BecoBot' ## Nome da I.A
 botAvatarUrl: 'https://www.introhive.com/wp-content/uploads/2017/12/businessman-with-robotic-hand-embracing-AI-in-financial-services-256x256.jpg' ##null ## Default avatar url of the image (e.g. 'https://avatars3.githubusercontent.com/u/1315508?v=4&s=400' )
 botConvoTitle: 'Seu Assistente Pessoal' ## Titula da primeira conversa da I.A
 
-# OPCAO POPUP DA CONVERSA
+# OPCAO DA ESTRUTURA POPUP DA CONVERSA
 welcomeMsgEnable: true
 welcomeMsgDelay: 1000
 welcomeMsgText: | ## Welcome message that shows at on pop-up (multi-lines)
