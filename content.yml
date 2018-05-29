@@ -4,12 +4,12 @@ welcome: # this is the #welcome bloc referenced in index.js
       - Olá! Como Vai ?
       - Olá {{user.first_name}}
       - Bom dia :)
-  - text: Mestre, ainda estou aprendendo, Ainda não seu de nada ;)
+  - text: Mestre, ainda estou aprendendo, Ainda não sei de nada ;)
     typing: 2s
-  - text: Make sure to check out the 'index.js' file to see how I work
+  - text: É apenas para mostrar que eu estou vivo, mmeu cérebro está localizado no 'index.js' como você codificou.
     typing: true
   - wait: 5s
-  - text: You can say goodbye now
+  - text: Você pode escrever tchau agora..
     typing: 1s
   
   # Finalizacao de Batepapo  
