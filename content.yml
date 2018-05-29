@@ -13,9 +13,7 @@ welcome: # this is the #welcome bloc referenced in index.js
     typing: 1s
   
   # Finalizacao de Batepapo  
-    typing: true
-  - wait: 4s
-  - text: Precisando é só chamar.
+  
 
 goodbye:
   - text: You are leaving because of reason {{reason}}
