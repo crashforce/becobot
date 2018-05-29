@@ -1,9 +1,9 @@
 welcome: # this is the #welcome bloc referenced in index.js
   - typing: true
     text: # Escolhe uma resposta randomicamente.
-      - Hey there!
-      - Hello {{user.first_name}}
-      - Good day :)
+      - Olá! Como Vai ?
+      - Olá {{user.first_name}}
+      - Bom dia :)
   - text: This is just a regular Hello World, I don't do anything ;)
     typing: 2s
   - text: Make sure to check out the 'index.js' file to see how I work
