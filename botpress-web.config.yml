@@ -9,7 +9,7 @@ welcomeMsgDelay: 1000
 welcomeMsgText: | ## Welcome message that shows at on pop-up (multi-lines)
   Olá! 
   Sou o BecoBot seu assistente pessoal!
-  This is the default message...
+  Estou aqui exclusivamente para lhe ajudar.
 
 # ESQUEMA DE CORES
 backgroundColor: '#ffffff' ## Cor de background 
